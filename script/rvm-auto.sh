@@ -12,7 +12,7 @@ unset GEM_HOME
 unset GEM_PATH
 unset MY_RUBY_HOME
 unset RUBYLIB
-unset RUBYOPT
+# unset RUBYOPT
 unset RUBY_VERSION
 
 rvm_fail()
